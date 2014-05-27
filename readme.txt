@@ -1,3 +1,23 @@
+PGMAutoSheet4design
+------------------------------------------
+
+介绍
+
+1.可拓展成跨平台的自动构建/编辑/追踪项目进度的app
+2.编辑、设计、制作可以随时任意更新自己的进度
+3.整合整个制作流程的各个步骤，方便多方交流
+
+
+使用技术
+
+1.nodejs 负责文件，字符处理，http 服务，模拟登陆获取cms 数据
+2.nodejs-webkit 封装成app //http://www.baidufe.com/item/1fd388d6246c29c1368c.html
+3.html js css 负责GUI，构建友好界面
+4.Enigma Virtual Box 把项目封装成单一文件，方便传播
+
+
+
+历史 History
 2014.05.27
 1.增加说明文档
 2.修复使用ip 的bug
