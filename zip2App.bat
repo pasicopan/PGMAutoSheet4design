@@ -1,0 +1,1 @@
+copy /b D:\develop\node-webkit-v0.9.2-win-ia32\nw.exe+app.zip app.exe
